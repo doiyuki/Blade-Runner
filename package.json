@@ -26,5 +26,13 @@
 	"galleryBanner": {
         "color": "#f4e2c8",
         "theme": "light"
+    },
+	"bugs": {
+		"url": "https://github.com/doiyuki/Blade-Runner/issues"
+    },
+    "homepage": "https://github.com/doiyuki/Blade-Runner",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/doiyuki/Blade-Runner.git"
     }
 }

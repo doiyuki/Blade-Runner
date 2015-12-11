@@ -12,6 +12,7 @@ This extension will be applied only to folder that has .vscode/tasks.json.
 # Feedback
 Tell me what you think on [Twitter](https://twitter.com/doiyuki14)
 Show [My Blog](http://toach.click/blog) to follow this extension.
+Or Access [My GitHub Repository](https://github.com/doiyuki/Blade-Runner)
 
 # Thanks
 The icon of Blade Runner is designed by Freepik <http://www.freepik.com>
