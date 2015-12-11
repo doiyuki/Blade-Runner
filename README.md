@@ -1,13 +1,17 @@
-# README
-## This is the README for your extension "blade-runner" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Blade Runner - Run Task When Open.
+This extension automatically runs build task when a folder is opened.
+And makes it possible to start watching file at the point in time.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+# Installation and Usage
+1. Install Visual Studio Code
+2. In the command palette (`Ctrl-Shift-P` or `Cmd-Shift-P`) select Install Extension and search for Blade Runner. Alternatively, run `ext install blade runner`
+3. Restart Visual Studio Code to enable Blade Runner.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This extension will be applied only to folder that has .vscode/tasks.json.
 
-** Enjoy!**
+# Feedback
+Tell me what you think on [Twitter](https://twitter.com/doiyuki14)
+Show [My Blog](http://toach.click/blog) to follow this extension.
+
+# Thanks
+The icon of Blade Runner is designed by Freepik <http://www.freepik.com>
